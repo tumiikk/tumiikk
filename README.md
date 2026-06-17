@@ -79,52 +79,6 @@ Building software, learning every day, and turning ideas into real-world project
 
 ---
 
-# 📂 Featured Projects
-
-## ✈️ TripBook System
-
-Flight booking management application built with Python.
-
-### Implemented Data Structures
-
-- Queue
-- Stack
-- Linked List
-- Graph
-- Binary Search Tree
-
-### Features
-
-- User Authentication
-- Flight Booking
-- Route Management
-- Booking History
-- Destination Recommendation
-
----
-
-## 🍽️ SmartResto System
-
-Restaurant management application built with Python.
-
-### Implemented Data Structures
-
-- Tree
-- Queue
-- Stack
-- Linked List
-- Dictionary
-- Graph
-
-### Features
-
-- Menu Management
-- Customer Queue
-- Kitchen Processing
-- Inventory Management
-- Delivery Route Management
-
----
 
 # 📊 GitHub Statistics
 
