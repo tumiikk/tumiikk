@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About tumiikk :
 🔭 I’m currently working on<br>Full-stack web applications, backend services, and AI-driven projects.<br><br>👯 I’m looking to collaborate on<br>Backend systems, web apps, and open-source AI projects.<br><br>🤝 I’m looking for help with<br>Machine Learning, System Design, and MLOps.<br><br>🌱 I’m currently learning<br>Python • FastAPI • Django • React • SQL • Data Structures & Algorithms • Machine Learning<br><br>💬 Ask me about<br>Python, APIs, OOP, Backend Development, and Web Development.<br><br>⚡ Fun fact<br>Started with Python and now pursuing the path to becoming a Full-Stack Developer & AI Engineer 🚀
 
 
